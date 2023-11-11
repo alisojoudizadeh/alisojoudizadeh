@@ -4,7 +4,7 @@ Hi 👋 My name is Ali Sojoudizadeh
 Network Engineer & Python Dev
 -----------------------------
 
-Network Engineer with 4+ years of experience in network design, escalation support, network administration, and systems administration. Skilled in delivering technical support, managing network operations, and maintaining enterprise-wide area networks across multi-platform Data Center environments
+Network Engineer with 6+ years of experience in network design, escalation support, network administration, and systems administration. Skilled in delivering technical support, managing network operations, and maintaining enterprise-wide area networks across multi-platform Data Center environments
 
 * 🌍  I'm based in Islamic Republic of Iran
 * ✉️  You can contact me at [SojoudizadehAli@gmail.com](mailto:SojoudizadehAli@gmail.com)
